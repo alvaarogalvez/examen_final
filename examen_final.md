@@ -2,6 +2,7 @@
 
 
 # Reconocimiento de servicios en el servidor
+![Alt text](image-11.png)
 
 
 # Accede al servidor con tu usuario en menos de 10 minutos
@@ -48,9 +49,9 @@
 # INTRUSION
 
 # Manda 50 pings a otro jugador
-
+![Alt text](image-12.png)
 # Eres el primero en acceder al servidor de otro jugador
-
+![Alt text](image-13.png)
 # Eres el segundo en acceder al servidor de otro jugador
 
 # Romper la contraseña de otro jugador
@@ -58,25 +59,28 @@
 # Acceder al servidor de otro jugador
 
 # Modifica la web de otro usuario
-
+![Alt text](image-14.png)
 # Crea un archivo oculto en /root
-
+![Alt text](image-15.png)
 # Crea un hook a un servidor de beef en la web de otro usuario
 
 # Haz una denegación de servicio del servicio web
 
 # Cambia el puerto SSH de un jugador
-
+![Alt text](image-16.png)
 # Añade tus claves RSA al VPS y accede usandolas
-
+![Alt text](image-21.png)
+![Alt text](image-22.png)
 # Elimina las claves RSA de acceso del jugador
-
+![Alt text](image-20.png)
 # Detecta un intento de intrusión desde el NAT de la escuela
+lo tengo en el correo
 
 # Roba logs del usuario
 
 # Roba pcaps del usuario
-
+![Alt text](image-19.png)
 # Elimina logs del usuario
-
+![Alt text](image-17.png)
 # Elimina pcaps del usuario
+![Alt text](image-18.png)
