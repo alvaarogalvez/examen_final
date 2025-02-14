@@ -55,7 +55,7 @@
 # Eres el segundo en acceder al servidor de otro jugador
 
 # Romper la contraseña de otro jugador
-
+![Alt text](image-13.png)
 # Acceder al servidor de otro jugador
 
 # Modifica la web de otro usuario
@@ -75,7 +75,7 @@
 ![Alt text](image-20.png)
 # Detecta un intento de intrusión desde el NAT de la escuela
 lo tengo en el correo
-
+![Alt text](image-23.png)
 # Roba logs del usuario
 
 # Roba pcaps del usuario
@@ -107,6 +107,7 @@ lo tengo en el correo
 # Detectar si un jugador te ha robado logs
 
 # Levantar una alerta con un canary token
+![Alt text](image-24.png)
 
 # Mantén tu nombre en la página principal al final de la ronda de intrusión
 
