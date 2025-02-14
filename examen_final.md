@@ -84,3 +84,36 @@ lo tengo en el correo
 ![Alt text](image-17.png)
 # Elimina pcaps del usuario
 ![Alt text](image-18.png)
+
+# POST-INCIDENTE
+
+# Detectar un intento de intrusión de otro jugador
+![Alt text](image-23.png)
+
+# Detectar un ping de otro jugador
+
+# Levantar una alerta cuando otro jugador modifique la web
+
+# Levantar una alerta cuando otro jugador cree un archivo en /root
+
+# Detectar intentos de intrusión en los analisis de tráfico con .pcap
+
+# Detectar si otro usuario tiene fail2ban instalado
+
+
+# Detectar si un jugador ha hecho mas de 50 pings a tu servidor
+
+
+# Detectar si un jugador te ha robado logs
+
+# Levantar una alerta con un canary token
+
+# Mantén tu nombre en la página principal al final de la ronda de intrusión
+
+
+# Captura 1000 paquetes y guardalos en un .pcap
+
+# Captura 5000 paquetes y guardalos en un .pcap
+
+
+# Captura 10000 paquetes y guardalos en un .pcap
